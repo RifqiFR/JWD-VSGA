@@ -40,6 +40,6 @@ Learning Path [Junior VSGA - Junior Web Developer BPPTIK](https://digitalent.kom
 |  7  | Tugas 6 - Implementasi User Interface                                  | 22-08-2022 |        [→](https://github.com/RifqiFR/JWD-VSGA)         |
 |  8  | Tugas 7 - Mengelola sumber daya pemrograman sesuai konteks             | 22-08-2022 |        [→](https://github.com/RifqiFR/JWD-VSGA)         |
 
-## Special Thanks :pray:
+## Special Thanks 🙏
 
 Terima kasih untuk [DTS 2022](https://digitalent.kominfo.go.id/) dan [BPTIK](https://bpptik.kominfo.go.id/).
