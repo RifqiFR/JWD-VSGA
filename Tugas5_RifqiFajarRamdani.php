@@ -19,13 +19,10 @@
         <label for="number1"> Bilangan 1 : </label>
         <input type="text" style="border:none" id="number1" name="number1" /><br>
         <label for="number2"> Bilangan 2 : </label>
-        <input type="text" style="border:none" id="number2" name="number2" onkeydown="if(event.keyCode == 13){document.getElementById('form1').submit('submit');}" />
+        <input type="text" style="border:none" id="number2" name="number2" onkeydown="if(event.keyCode == 1){document.getElementById('form1').submit('submit');}" />
         <hr width="27%" align="left">
     </form>
-    <script>
-        var asd = 123
-        console.log(asd)
-    </script>
+
 </body>
 
 </html>
